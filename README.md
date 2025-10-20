@@ -14,3 +14,4 @@ This externship strengthened my ability to connect data storytelling with market
 
 Here's a link to my dashboard: https://claude.ai/public/artifacts/640a7138-2e62-4774-beb0-d54cff6795dc
 Here's a link to my AI powerpoint: https://gamma.app/docs/ARAFAT-SANI-9152025-oube67q3o1zwfdv?mode=doc
+Here's a link to Survey Reponses Which includes (Repsonses, Data cleaning, Mean, Median & Mode, Likert Scale, Average Rankin & Weighted Scores, Correlation, Analysis Table, Theme Explanation, Conclution & Insights and Visualization) Sheets: https://docs.google.com/spreadsheets/d/1FXGIjfqQvrCV4SBVey4ikBAyjuq9Qbud6o2upA3TWU0/edit?gid=1892455329#gid=1892455329
